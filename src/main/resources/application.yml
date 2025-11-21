@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+
+
+    hikari:
+      pool-name: HikariPostgresPool
+
+  jpa:
+    hibernate:
+      ddl-auto: create
