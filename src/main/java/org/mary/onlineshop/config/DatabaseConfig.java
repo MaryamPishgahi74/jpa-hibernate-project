@@ -1,4 +1,4 @@
-package org.mary.onlineshop.config;
+/*package org.mary.onlineshop.config;
 
 import com.zaxxer.hikari.HikariDataSource;
 import org.springframework.context.annotation.Bean;
@@ -52,3 +52,4 @@ public class DatabaseConfig {
         return factoryBean;
     }
 }
+*/
